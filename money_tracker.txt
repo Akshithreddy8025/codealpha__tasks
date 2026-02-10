@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-total expenses: 5222.0
-total income: 25555.0
-=======
-total expenses: 5222.0
-total income: 25555.0
->>>>>>> 4c00540f2db246b2d454124ac2c6424c84e2e1e8
-balance: 20333.0
