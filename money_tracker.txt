@@ -1,0 +1,3 @@
+total expenses: 5222.0
+total income: 25555.0
+balance: 20333.0
